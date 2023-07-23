@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test:unit": "node --experimental-vm-modules node_modules/.bin/jest"
+  },
+  "type": "module",
+  "dependencies": {
+    "jest": "^29.6.1"
+  }
+}
